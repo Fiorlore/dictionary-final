@@ -4,7 +4,7 @@ import "./Results.css";
 
 export default function Results(props) {
 
-    const colors = ['#e6d2df', '#dfd5e4', '#d0dbef'];
+    const colors = ['#e6d2df', '#dfd5e4', '#d0dbef', '#e6d2df'];
     
     if (props.results) {
     return (
