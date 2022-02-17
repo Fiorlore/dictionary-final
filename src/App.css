@@ -1,13 +1,23 @@
 .App {
-  margin-top: 50px;
-  margin-left: 30px;
+  margin: 40px auto;
+  max-width: 60%;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: #46494c;
 }
 
 footer {
-  font-size: 10px;
-  margin-top: 40px;
+  font-size: 11px;
+  margin-top: 20px;
+  margin-left: 10px;
 }
 
-.App a {
+footer a {
   text-decoration: none;
+  color: #b56576;
+  font-weight: bold;
 }
+
+footer a:hover {
+  color: #79434F;
+}
+

@@ -12,4 +12,4 @@ ReactDOM.render(
   document.getElementById('root')
 );
 
-document.body.style = 'background: #FFFDEE;';
+document.body.style = 'background: #FCFCFB;';

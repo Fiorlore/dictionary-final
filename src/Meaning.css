@@ -1,0 +1,23 @@
+.Meaning {
+
+    border-bottom-left-radius: 10px;
+
+}
+
+.Meaning .definition {
+    font-size: 19px;
+    margin-bottom: 10px;
+}
+
+.Meaning .example {
+    font-size: 17px;
+    font-style: italic;
+    margin-bottom: 10px;
+    
+}
+
+.Meaning .oneMeaning {
+    margin-bottom: 30px;
+    padding: 10px;
+    
+}
