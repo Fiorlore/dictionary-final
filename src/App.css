@@ -7,3 +7,7 @@ footer {
   font-size: 10px;
   margin-top: 40px;
 }
+
+.App a {
+  text-decoration: none;
+}
