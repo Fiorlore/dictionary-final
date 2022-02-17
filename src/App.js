@@ -13,7 +13,7 @@ export default function App() {
         rel="noopener noreferrer">
         Anna Kwiatkowska</a> 
         {""} and is open-sourced on {""} 
-        <a href="https://github.com/Fiorlore/dictionary-project"
+        <a href="https://github.com/Fiorlore/dictionary-final"
         target="_blank"
         rel="noopener noreferrer">
         Git-Hub</a>
