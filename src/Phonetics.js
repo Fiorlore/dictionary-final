@@ -13,7 +13,6 @@ export default function Phonetics(props) {
     } else {
         return (
             <div className="Phonetics">
-               
                 {props.phonetics[0].text}
             </div>
         );

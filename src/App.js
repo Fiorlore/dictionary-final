@@ -5,7 +5,7 @@ export default function App() {
   return (
     <div className="App">
      
-      <Dictionary defaultKeyword="word"/>
+      <Dictionary defaultKeyword="paradise"/>
 
       <footer>
         This project was coded by{""} <a href="https://github.com/Fiorlore"
